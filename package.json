@@ -1,0 +1,22 @@
+{
+  "name": "brokeworld-asset-pack1",
+  "version": "1.0.0",
+  "description": "Asset pack 1 for Broke World containing tiles, entity animations, and icons",
+  "main": "index.js",
+  "files": [
+    "assets",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chrisdb-playground/brokeworld-asset-pack1.git"
+  },
+  "keywords": [
+    "brokeworld",
+    "asset-pack",
+    "sprites",
+    "tiles"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
