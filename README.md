@@ -23,6 +23,11 @@ Static graphics, spritesheets, entity animations, and tile assets for **Broke Wo
   - `assets/morrocan_hq.png`: Moroccan / North African Operations Regional Headquarters.
   - `assets/morrocan_recruiter.png`: Moroccan / North African Scout Recruiter node.
 
+### Illicit Criminal Enterprise & Hash Production Nodes
+- `assets/hash_grower.png`: Hash Cultivation / Growing Plantation node sprite.
+- `assets/hash_process.png`: Hash Processing & Extraction Laboratory node sprite.
+- `assets/hash_dealer.png`: Street-level Hash Dealership & Distribution Front node sprite.
+
 ### Voyage Vehicles
 - `assets/broke_world_voyage_boat.png`: Maritime crossing vessel for Channel and Mediterranean sea voyages.
 - `assets/broke_world_voyage_van.png`: Overland transport van for continental transit routes.
